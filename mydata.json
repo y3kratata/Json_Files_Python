@@ -1,0 +1,19 @@
+{
+  "people": [
+    {
+      "name": "Bob",
+      "age": 11,
+      "nationality": "English"
+    },
+    {
+      "name": "Boris",
+      "age": 11,
+      "nationality": "Russian"
+    },
+    {
+      "name": "Lisa",
+      "age": 11,
+      "nationality": "Spanish"
+    }
+  ]
+}
